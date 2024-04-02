@@ -5,12 +5,12 @@
     font-family: "Gilroy";
     font-style: normal;
     font-weight: 400;
-    src: url("/fonts/Gilroy-Regular.woff2");
+    src: url("/theme/fonts/Gilroy-Regular.woff2");
 }
 
 @font-face {
     font-family: "Gilroy";
     font-style: normal;
     font-weight: 800;
-    src: url("/fonts/Gilroy-ExtraBold.woff2");
+    src: url("/theme/fonts/Gilroy-ExtraBold.woff2");
 }
