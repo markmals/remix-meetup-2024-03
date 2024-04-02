@@ -21,7 +21,7 @@ We’ll talk about the technique, why it works, and which levers you can adjust 
 
 ---
 layout: presenter
-presenterImage: /profile.jpg
+presenterImage: profile.jpg
 ---
 
 # Hi! I'm Mark 👋
